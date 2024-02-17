@@ -1,0 +1,5 @@
+전기차 등록 현황(area_cars.csv)
+인기차량 판매량(pop_car.csv → popular_list.csv)
+보조금(price_car.csv → subsidy.csv)
+지역별 충전소 설치현황(charge_bf.csv → charge_num.csv)
+설치장소 충전소 설치 현황(charge_bf.csv → charge.csv)
